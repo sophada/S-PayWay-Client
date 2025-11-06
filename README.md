@@ -20,12 +20,6 @@ Download and include the client library in your project:
 require_once './src/S_PayWayClient.php';
 ```
 
-Or install via Composer:
-
-```bash
-composer require S-PayWay/php-client
-```
-
 ## Quick Start
 
 ```php
